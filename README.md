@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Status: Working... Research Assistant at AIRS.
+- Status: Working... Algorithm Engineer at MGI.
 - 🔭 I’m currently working on exploration of neural network architecture.
 - 🌱 I’m currently learning PaddlePaddle Framework.
 - Research: Computer Vision, CNN in FPGA, CNN architecture.
